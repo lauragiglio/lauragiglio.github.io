@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Laura Giglio, PhD"
+title                    : "Laura Giglio"
 title_separator          : "-"
-name                     : &name "Laura Giglio"
+name                     : &name "Laura Giglio, PhD"
 description              : &description "personal description"
 url                      : https://lauragiglio.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
