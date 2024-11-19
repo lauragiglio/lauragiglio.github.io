@@ -11,26 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Cognitive Neuroscience, Max Planck Institute for Psycholinguistics, 2023 (Cum Laude)
+* M.Sc. in Cognitive Neuroscience, Radboud University Nijmegen, 2018 (Cum Laude)
+* B.Sc. (Hons) in Neuroscience, University of Glasgow (First Class)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024: Postdoctoral Fellow
+  * University of South Carolina
+  * Supervisor: Dr. Dirk den Ouden
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022-2023: Postdoctoral Fellow
+  * Max Planck Institute for Psycholinguistics
+  * Supervisor: Prof. Peter Hagoort
   
 Skills
 ======
