@@ -23,4 +23,19 @@ author_profile: true
 
 * Giglio, L., Ostarek, M., Weber, K., & Hagoort, P. (2022). Commonalities and asymmetries in the neurobiological infrastructure for language production and comprehension. Cerebral Cortex, 32(7), 1405-1418. doi:10.1093/cercor/bhab287.
 
+Manuscripts in preparation
+=====
+* Giglio, L., Hagoort, P., Ostarek, M. (in revision). Distributed Neural Activity for Semantic Structures
+During Sentence Production.
+
+* Giglio, L., Bonilha, L., Fridriksson, J., Hillis, A., Rorden, C., Stark, B., Wilmskoetter, J., den Ouden, D.B.
+(under review). The integrity of the medial temporal lobe predicts narrative-discourse
+improvement after naming intervention in chronic post-stroke aphasia.
+
+* Giglio, L., Matchin, W., Fridriksson, J., den Ouden, D.B. Characterizing verb argument structure
+production in discourse in chronic aphasia.
+
+* Giglio, L., Hagoort, P., Huizeling, E. Disfluencies reduce the effect of uh word surprisal during narrative
+comprehension.
+
 
