@@ -11,6 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
+* Giglio, L., Hagoort, P., Ostarek, M. (2024). Neural Encoding of Semantic Structures During Sentence Production. Cerebral Cortex, 34(12), bhae482. https://doi.org/10.1093/cercor/bhae482
 
 * Giglio, L., Ostarek, M., Sharoh, D., & Hagoort, P. (2024). Diverging neural dynamics for syntactic structure building in naturalistic speaking and listening. Proceedings of the National Academy of Sciences of the United States of America, 121(11): e2310766121. doi:10.1073/pnas.2310766121.
 
@@ -25,14 +26,12 @@ author_profile: true
 
 Manuscripts in preparation
 =====
-* Giglio, L., Hagoort, P., Ostarek, M. (in revision). Distributed Neural Activity for Semantic Structures
-During Sentence Production.
 
 * Giglio, L., Bonilha, L., Fridriksson, J., Hillis, A., Rorden, C., Stark, B., Wilmskoetter, J., den Ouden, D.B.
 (under review). The integrity of the medial temporal lobe predicts narrative-discourse
 improvement after naming intervention in chronic post-stroke aphasia.
 
-* Giglio, L., Matchin, W., Fridriksson, J., den Ouden, D.B. Characterizing verb argument structure
+* Giglio, L., Fridriksson, J., den Ouden, D.B. Characterizing verb argument structure
 production in discourse in chronic aphasia.
 
 * Giglio, L., Hagoort, P., Huizeling, E. Disfluencies reduce the effect of uh word surprisal during narrative
