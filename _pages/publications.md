@@ -11,6 +11,11 @@ author_profile: true
 
 {% include base_path %}
 
+* Giglio, L., Fridriksson, J., den Ouden, D.B. (accepted). Characterizing verb argument structure
+production in discourse in chronic aphasia. Journal of Speech, Language and Hearing Research. 
+
+* Giglio, L., Bonilha, L., Fridriksson, J., Kristinsson, S., Newman-Norlund, R., Rorden, C., ... & Den Ouden, D. B. (2025). Neural predictors for the generalization of semantic and phonological treatment to discourse performance in chronic post-stroke aphasia. Neurobiology of Language, 6, NOL-a. doi: https://doi.org/10.1162/NOL.a.27
+
 * Giglio, L., Hagoort, P., Ostarek, M. (2024). Neural Encoding of Semantic Structures During Sentence Production. Cerebral Cortex, 34(12), bhae482. https://doi.org/10.1093/cercor/bhae482
 
 * Giglio, L., Ostarek, M., Sharoh, D., & Hagoort, P. (2024). Diverging neural dynamics for syntactic structure building in naturalistic speaking and listening. Proceedings of the National Academy of Sciences of the United States of America, 121(11): e2310766121. doi:10.1073/pnas.2310766121.
@@ -27,14 +32,10 @@ author_profile: true
 Manuscripts in preparation
 =====
 
-* Giglio, L., Bonilha, L., Fridriksson, J., Hillis, A., Rorden, C., Stark, B., Wilmskoetter, J., den Ouden, D.B.
-(under review). The integrity of the medial temporal lobe predicts narrative-discourse
-improvement after naming intervention in chronic post-stroke aphasia.
-
-* Giglio, L., Fridriksson, J., den Ouden, D.B. Characterizing verb argument structure
-production in discourse in chronic aphasia.
-
-* Giglio, L., Hagoort, P., Huizeling, E. Disfluencies reduce the effect of uh word surprisal during narrative
+* Giglio, L., Hagoort, P., Huizeling, E. (under review). Disfluencies reduce the effect of uh word surprisal during narrative
 comprehension.
 
+* Ozker, M., Takashima, A., Giglio, L., Hintz, F., Meyer, A., & Hagoort, P. (2026). The scaffolding of individual variability in language processing by domain-general neural networks. bioRxiv, 2026-02.
+
+* Ozker, M., Giglio, L., Beyh, A., Forkel, S. J., & Hagoort, P. (2025). Individual Differences in Speech Monitoring: Functional and Structural Correlates of Delayed Auditory Feedback. bioRxiv, 2025-10.
 
