@@ -17,7 +17,11 @@ Education
 
 Work experience
 ======
-* 2024: Postdoctoral Fellow
+* 2025: Postdoctoral Fellow
+  * ISLE Institute, University of Zurich
+  * Supervisor: Prof. Balthasar Bickel
+    
+* 2024-2025: Postdoctoral Fellow
   * University of South Carolina
   * Supervisor: Dr. Dirk den Ouden
 
