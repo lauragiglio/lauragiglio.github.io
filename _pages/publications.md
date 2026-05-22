@@ -11,8 +11,11 @@ author_profile: true
 
 {% include base_path %}
 
-* Giglio, L., Fridriksson, J., den Ouden, D.B. (accepted). Characterizing verb argument structure
-production in discourse in chronic aphasia. Journal of Speech, Language and Hearing Research. 
+* Ozker, M., Giglio, L., Beyh, A., Forkel, S. J., & Hagoort, P. (accepted). Individual Differences in Speech Monitoring: Functional and Structural Correlates of Delayed Auditory Feedback. Proceedings of the National Academy of Sciences of the United States of America. https://doi.org/10.1101/2025.10.22.683659
+  
+* Giglio, L., Fridriksson, J., den Ouden, D.B. (2026). Characterizing verb argument structure production in discourse in chronic aphasia. Journal of Speech, Language and Hearing Research, 1-20. https://doi.org/10.1044/2026_jslhr-25-00332
+
+* Giglio, L., Hagoort, P., Huizeling, E. (2026). Disfluencies reduce the effect of uh… word surprisal during narrative comprehension. Cortex. https://doi.org/10.1016/j.cortex.2026.02.017
 
 * Giglio, L., Bonilha, L., Fridriksson, J., Kristinsson, S., Newman-Norlund, R., Rorden, C., ... & Den Ouden, D. B. (2025). Neural predictors for the generalization of semantic and phonological treatment to discourse performance in chronic post-stroke aphasia. Neurobiology of Language, 6, NOL-a. doi: https://doi.org/10.1162/NOL.a.27
 
@@ -20,22 +23,16 @@ production in discourse in chronic aphasia. Journal of Speech, Language and Hear
 
 * Giglio, L., Ostarek, M., Sharoh, D., & Hagoort, P. (2024). Diverging neural dynamics for syntactic structure building in naturalistic speaking and listening. Proceedings of the National Academy of Sciences of the United States of America, 121(11): e2310766121. doi:10.1073/pnas.2310766121.
 
-
 * Giglio, L., Sharoh, D., Ostarek, M., & Hagoort, P. (2024). Connectivity of fronto-temporal regions in syntactic structure building during speaking and listening. Neurobiology of Language, 5(4), 922-941. doi:10.1162/nol_a_00154.
 
-
 * Giglio, L. (2023). Speaking in the Brain: How the brain produces and understands language. PhD Thesis, Radboud University Nijmegen, Nijmegen.
-
 
 * Giglio, L., Ostarek, M., Weber, K., & Hagoort, P. (2022). Commonalities and asymmetries in the neurobiological infrastructure for language production and comprehension. Cerebral Cortex, 32(7), 1405-1418. doi:10.1093/cercor/bhab287.
 
 Manuscripts in preparation
 =====
 
-* Giglio, L., Hagoort, P., Huizeling, E. (under review). Disfluencies reduce the effect of uh word surprisal during narrative
-comprehension.
-
 * Ozker, M., Takashima, A., Giglio, L., Hintz, F., Meyer, A., & Hagoort, P. (2026). The scaffolding of individual variability in language processing by domain-general neural networks. bioRxiv, 2026-02.
 
-* Ozker, M., Giglio, L., Beyh, A., Forkel, S. J., & Hagoort, P. (2025). Individual Differences in Speech Monitoring: Functional and Structural Correlates of Delayed Auditory Feedback. bioRxiv, 2025-10.
+
 
