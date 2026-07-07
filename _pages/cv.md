@@ -17,7 +17,12 @@ Education
 
 Work experience
 ======
-* 2025: Postdoctoral Fellow
+* 2026: SNSF Postdoctoral Fellow
+  * University of Geneva
+  * Supervisor: Prof. Marina Laganaro
+  * SNSF Postdoctoral Fellowship recipient
+
+* 2025-2026: Postdoctoral Fellow
   * ISLE Institute, University of Zurich
   * Supervisor: Prof. Balthasar Bickel
     
