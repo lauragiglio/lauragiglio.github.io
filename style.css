@@ -48,7 +48,7 @@ a:hover { opacity: 0.72; }
   aspect-ratio: 1 / 1;
   object-fit: cover;
   margin-bottom: 22px;
-  border-radius: 2px;
+  border-radius: 50%;
 }
 nav { display: flex; flex-direction: column; gap: 5px; }
 nav a { width: fit-content; color: var(--text); text-decoration: none; }
