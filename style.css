@@ -48,7 +48,7 @@ a:hover { opacity: 0.72; }
   aspect-ratio: 1 / 1;
   object-fit: cover;
   margin-bottom: 22px;
-  border-radius: 2px;
+  border-radius: 50%;
 }
 nav { display: flex; flex-direction: column; gap: 5px; }
 nav a { width: fit-content; color: var(--text); text-decoration: none; }
@@ -109,6 +109,12 @@ nav a.active { font-weight: 700; }
 }
 .presentation:first-of-type { padding-top: 2px; }
 .presentation p { margin-bottom: 4px; }
+
+.publication {
+  padding-left: 3em;
+  text-indent: -3em;
+  margin-bottom: 14px;
+}
 
 footer {
   width: min(calc(100% - 40px), var(--content-width));
